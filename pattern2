@@ -1,0 +1,12 @@
+import java.util.*;
+class pattern2{
+public static void main(String args[])
+{
+int( int i = 7;i>=1;i--)
+{
+int( int j = 7;i<=1;j++)
+
+System.out.ptint("*");
+}
+System.out.ptintln();
+}}}
